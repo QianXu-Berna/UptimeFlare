@@ -1,4 +1,5 @@
 # This is a script to create D1 database, initialize tables, and get D1_ID for later use.
+#test
 import requests
 import os
 
